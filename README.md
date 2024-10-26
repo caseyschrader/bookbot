@@ -1,3 +1,2 @@
 # bookbot
-
-a bot that reads books
+Bookbot is my first project!
